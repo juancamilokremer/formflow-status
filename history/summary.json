@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.formflow.app.ico",
     "slug": "form-flow-api",
     "status": "down",
-    "uptime": "45.05%",
-    "uptimeDay": "45.05%",
-    "uptimeWeek": "45.05%",
-    "uptimeMonth": "45.05%",
-    "uptimeYear": "45.05%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-03": 1
+      "2026-10-04": 175,
+      "2026-10-03": 123
     }
   },
   {
@@ -25,16 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.formflow.app.ico",
     "slug": "form-flow-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-04": 175,
+      "2026-10-03": 122
+    }
   }
 ]
